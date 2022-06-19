@@ -1,3 +1,3 @@
-print("My name is Carlson B Casenas")
+print("My name is Carlson B. Casenas")
 print("You can also call me RD")
-print("")
+print("I enjoy playing musical instruments")
